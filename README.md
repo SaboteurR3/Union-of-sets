@@ -20,6 +20,6 @@ In Set class I used several methods:
  
   
 Fields: 
-1) public int Count 
+1)public int Count 
  
 2)public bool IsEmpty
