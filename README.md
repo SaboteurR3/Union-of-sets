@@ -1,5 +1,5 @@
 # Union-of-sets
-{ Union of sets } C# code
+{ Union of sets } C# code;
 I created a generic type class Set <T> in which I stored T-type sets.
  
 In Set class I used several methods:
